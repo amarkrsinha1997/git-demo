@@ -7,3 +7,5 @@ Rebase
 Rebase commit-2
 Rebase commit-3
 Rebase  new commit-1
+Rebase new commit-2
+
