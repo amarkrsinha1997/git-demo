@@ -6,3 +6,4 @@ Rebase-1
 Rebase
 Rebase commit-2
 Rebase commit-3
+Rebase  new commit-1
